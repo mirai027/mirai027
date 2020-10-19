@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🤔 肚子好饿，早知道不做前端了 orz
+🤔 肚子好饿，早知道不做前端了。 Ծ‸ Ծ 
+
 
 <a href="https://github.com/mirai027">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=mirai027"/>
