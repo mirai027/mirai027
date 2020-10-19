@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirai027)](https://github.com/anuraghazra/github-readme-stats)
+🤔 肚子好饿，早知道不做前端了 orz
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirai027&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mirai027">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=mirai027"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirai027&layout=compact"/>
+</a>
 
 <!--
 **mirai027/mirai027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
