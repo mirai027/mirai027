@@ -8,8 +8,6 @@
   <img height="180rem" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mirai027&layout=compact"/>
 </a>
 
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mirai027)
-
 <!--
 **mirai027/mirai027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
