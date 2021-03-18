@@ -4,8 +4,8 @@
 
 
 <a href="https://github.com/mirai027">
-  <img height="180rem" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mirai027&layout=compact"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirai027&layout=compact"/>
+  <img height="180rem" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mirai027&layout=compact"/>
 </a>
 
 <!--
